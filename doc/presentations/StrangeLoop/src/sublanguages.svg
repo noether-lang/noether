@@ -13,7 +13,7 @@
    height="1052.3622047"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="sublanguages.svg"
    inkscape:export-filename="/home/davidsarah/noether/sublanguages.png"
    inkscape:export-xdpi="100"
@@ -46,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -129,7 +129,7 @@
          id="tspan2998"
          x="122.48637"
          y="89.823349"
-         style="font-size:18px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin Bold Italic">Noether-P</tspan><tspan
+         style="font-size:18px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin Bold Italic">Noether-CP</tspan><tspan
          sodipodi:role="line"
          x="122.48637"
          y="112.32335"
@@ -146,7 +146,7 @@
          id="tspan2998-5"
          x="120.80277"
          y="191.69099"
-         style="font-size:18px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin Bold Italic">Noether-PLH</tspan><tspan
+         style="font-size:18px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin Bold Italic">Noether-CPLH</tspan><tspan
          sodipodi:role="line"
          x="120.80277"
          y="214.19099"
@@ -163,7 +163,7 @@
          id="tspan2998-4"
          x="117.74061"
          y="294.78372"
-         style="font-size:18px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin Bold Italic">Noether-PLHTZ</tspan><tspan
+         style="font-size:18px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin Bold Italic">Noether-CPLHTZ</tspan><tspan
          sodipodi:role="line"
          x="117.74061"
          y="317.28372"
@@ -180,7 +180,7 @@
          id="tspan2998-9"
          x="115.69916"
          y="396.85571"
-         style="font-size:18px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin Bold Italic">Noether-PLHTZS = Noether-F</tspan><tspan
+         style="font-size:18px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin Bold Italic">Noether-CPLHTZS = Noether-F</tspan><tspan
          sodipodi:role="line"
          x="115.69916"
          y="419.35571"
