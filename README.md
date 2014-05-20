@@ -1,7 +1,7 @@
-noether
+Noether
 =======
 
-Noether programming language.
+The Noether programming language.
 
-There is no source yet. When there is, it will be [MIT-licensed](LICENSE).
-In the meantime, the documentation is also MIT-licensed.
+A prototype implementation on top of Idris is in (very) early development.
+This and the [design documentation](doc) is [MIT-licensed](LICENSE).
