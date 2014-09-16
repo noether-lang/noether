@@ -62,8 +62,8 @@
      showgrid="false"
      inkscape:window-width="1490"
      inkscape:window-height="1226"
-     inkscape:window-x="215"
-     inkscape:window-y="158"
+     inkscape:window-x="709"
+     inkscape:window-y="201"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
@@ -131,7 +131,7 @@
          x="376.43988"
          y="538.21008"
          style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#fdfffe;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans Bold"
-         id="tspan3011">Reverse debugging</tspan><tspan
+         id="tspan3011">Reversible execution</tspan><tspan
          sodipodi:role="line"
          x="376.43988"
          y="575.71014"
