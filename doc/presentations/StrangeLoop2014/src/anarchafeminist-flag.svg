@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="anarchafeminist-flag.svg"
-   inkscape:export-filename="/home/davidsarah/noether/git/noether/doc/presentations/StrangeLoop2014/src/special-offer.png"
+   inkscape:export-filename="/home/davidsarah/noether/git/noether/doc/presentations/StrangeLoop2014/src/anarchafeminist-flag.png"
    inkscape:export-xdpi="100"
    inkscape:export-ydpi="100">
   <defs
@@ -55,7 +55,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.93693979"
-     inkscape:cx="371.34155"
+     inkscape:cx="184.02962"
      inkscape:cy="759.33201"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -63,7 +63,7 @@
      inkscape:window-width="1804"
      inkscape:window-height="1226"
      inkscape:window-x="173"
-     inkscape:window-y="237"
+     inkscape:window-y="177"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
@@ -82,7 +82,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#5300cf;fill-opacity:1"
+       style="fill:#7400cf;fill-opacity:1"
        id="rect3181"
        width="669.19995"
        height="438.6622"
@@ -97,8 +97,9 @@
        sodipodi:nodetypes="cccc" />
     <path
        style="fill:#390000;fill-opacity:1"
-       d="m 48.728601,446.90781 c 0.369178,-100.30607 0.965547,-198.10407 1.325265,-217.32889 l 0.654033,-34.95422 293.648041,0.15108 c 161.50642,0.0831 309.86773,0.44331 329.69179,0.80048 l 36.04377,0.6494 -329.95306,216.12915 C 198.66426,531.22584 49.70658,628.66362 49.121376,628.88322 c -0.70618,0.26497 -0.838271,-60.93348 -0.392775,-181.97541 z"
+       d="m 715.32542,632.08599 c -227.15421,1.02395 -465.22786,1.81663 -667.922034,0.53365 L 378.42375,413.28858 C 559.26867,293.46239 715.25944,193.77786 715.84464,193.55826 c 0.0216,154.31516 0.24461,260.81549 -0.51922,438.52773 z"
        id="path3955"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccscc" />
   </g>
 </svg>
